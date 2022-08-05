@@ -1,5 +1,5 @@
 # Music to Panel
----
+
 This simple gnome-extension shows the music your currently playing in your Panel
 
 ## Installation 
