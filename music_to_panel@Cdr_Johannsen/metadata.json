@@ -1,0 +1,9 @@
+{
+    "name" : "Music to Panel",
+    "description" : "See the music your playing in your taskbar!",
+    "shell-version" : [
+        "42.0"
+    ],
+    "uuid" : "music_to_panel@Cdr_Johannsen",
+    "version" : 2.1
+}
